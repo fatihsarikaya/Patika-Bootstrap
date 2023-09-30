@@ -1,0 +1,23 @@
+body {
+  background-color: #d1b3b6;
+}
+#logo {
+  font-size: 18px !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+}
+.navbar {
+  background-color: #d80032 !important;
+  color: white !important;
+}
+a {
+  color: white !important;
+}
+#anaBaslik {
+  color: #3d0c11;
+}
+.gameCover {
+  max-width: 400px !important;
+  max-height: 250px !important;
+}
